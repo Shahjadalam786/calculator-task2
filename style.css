@@ -48,3 +48,11 @@ form input.equal{
 form input.operator{
     color: #09ffd6;
 }
+.paragraph{
+    background: #ddf3fa;
+    text-align: center;
+    flex: 1;
+    font-size: 20px;
+    box-shadow: none;
+    
+}
