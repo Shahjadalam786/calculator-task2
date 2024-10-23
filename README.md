@@ -9,5 +9,4 @@ Auther - Shahjad Alam
 <li>javascript</li>
 <ol>
 </div>
-
-<a href="file:///C:/Users/Achieve%20Computer/Desktop/git%20demo/calculator-task2/index.html?display=5.5%2F2" >live Calculator</a>
+<a href="file:///C:/Users/Achieve%20Computer/Desktop/git%20demo/calculator-task2/index.html">Live Calculator</a><br>
